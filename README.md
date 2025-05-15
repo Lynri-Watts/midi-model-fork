@@ -1,4 +1,8 @@
-# Midi-Model
+# Midi-Model-Fork
+
+This Project is supposed to be a fork of [Midi-model](https://github.com/SkyTNT/midi-model). But my skills are not enough to make it work. So I decided to create a new project.
+
+Original README:
 
 ## Midi event transformer for music generation
 
